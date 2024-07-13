@@ -6,7 +6,7 @@ This project is conducted within ACME Systems Inc., Finance and Accounting Depar
 - Reduce redundant activities
 - Improve overall performance and reliability
 
-### Process Description
+### Process Description 📝
 - Step.1 Open ACME System 1 Web Application
 - Step.2 Log in to the application with the required username and password
 - Step.3 Access the work items menu in the dashboard
@@ -17,11 +17,12 @@ This project is conducted within ACME Systems Inc., Finance and Accounting Depar
 - Step.8 Retrieve Client Security Hash value
 - Step.9 Go back to Client Information Details and update with hash value as a comment and set the status value to "Completed"
 - Step.10 Continue with the next activity with type WI5
-### Note
-- Orchestrator Asset is used to store Credentials
-- Robotic Enterprise Framework is used(REFramework)
 
-### Instructions
+### Note 🗒️
+- Orchestrator Asset is used to store Credentials
+- Robotic Enterprise Framework is used (REFramework)
+
+### Instructions 📋
 
 Compress your Calculate Client Security Hash workflow and upload it below. Your results will be displayed as soon as your workflow is processed. Evaluation criteria: Number of correct items divided by the total number of processed items.
 
@@ -38,3 +39,9 @@ The criteria for a correct processed item is based on the instructions in the pr
 Status Completed
 comment contains correct security hash - Pay close attention to the formula ([ClientID]-[ClientName]-[ClientCountry] - Example: AD38755-Austin Villacorta-Italy) with no spaces between the dashes and without the brackets.
 If you have failed this assignment, no worries - you can try again. You must click the Results tab on this page, then go to Feedback. You have to click the arrow next to the submitted date and you will see the Upload a File button available. If your assignment is passed, you cannot reupload the file.
+
+## Authors 🧑‍💻
+[![GitHub](https://img.shields.io/badge/GitHub-MahmoudKhaled007-lightgrey?logo=github)](https://github.com/MahmoudKhaled007)
+
+## License 📄
+[![Apache License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](http://www.apache.org/licenses/)
