@@ -2,9 +2,10 @@
 
 This project is conducted within ACME Systems Inc., Finance and Accounting Department. The Objective of this process automation is to
 
--Deliver fast processing
--Reduce redundant activities
-Improve overall performance and reliability
+- Deliver fast processing
+- Reduce redundant activities
+- Improve overall performance and reliability
+
 ### Process Description
 - Step.1 Open ACME System 1 Web Application
 - Step.2 Log in to the application with the required username and password
